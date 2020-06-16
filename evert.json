@@ -1,0 +1,26 @@
+{
+  "forum_url": "noexistecomoelamordeella.com",
+  "build_date": "siguientebuild",
+  "changelog": "estaran muy pronto con eso chao  [RakeshBatra]\n\n",
+  "url": "https://sourceforge.net/projects/coltos/files/Sanders/ColtOS-Enigma-4.3_OFFICIAL-20190609-sanders.zip/download",
+  "error": "false",
+  "filename": "ColtOS-Enigma-4.3_OFFICIAL-20190609-sanders.zip",
+  "filesize": "646690157",
+  "md5": "e3e6c075b054787fa1431b5f9b58adbd",
+  "donate_url": "https://www.paypal.me/sebastian3567",
+  "addons": [
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-v19.3.zip",
+      "summary": "Magisk Manager",
+      "title": "Magisk"
+    },
+    {
+      "url": "https://github.com/topjohnwu/Magisk/releases/download/v19.3/Magisk-uninstaller-20190604.zip",
+      "summary": "Magisk Uninstaller",
+      "title": "Magisk"
+    }
+  ],
+  "developer_url": "https://forum.xda-developers.com/member.php?u=7426491",
+  "website_url": "https://plus.google.com/communities/111037372581335961267",
+  "developer": "seba3567"
+}
